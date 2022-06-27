@@ -1,0 +1,10 @@
+*
+!README.md
+!rules.mk
+!.gitignore
+!device
+!device/hid_CMSISDAP
+!device/hid_CMSISDAP/*
+!device/hid_CMSISDAP/src/*
+!device/hid_CMSISDAP/src/DAP/*
+
